@@ -157,3 +157,6 @@ import  com.youme.voiceengine.*;
 * **lua SDK配置**
 参见[lua SDK集成](##开发环境集成)
 3. 添加依赖库：在`Build Phases`  -> `Link Binary With Libraries`下添加：`libyoume_voice_engine.a`、`libYouMeCommon.a`,`libffmpeg3.3.a`,`libsqlite3.0.tbd`、,`libz.dylib`、`libz.1.2.5.tbd`、`libresolv.9.tbd`、`libc++.tbd`、`SystemConfiguration.framework`、`CoreTelephony.framework`、`AVFoundation.framework`、`AudioToolBox.framework`、`CFNetwork.framework`,`GLKit.framework`,`VideoToolbox.framework`,`OpenAL.framework`,`QuartzCore.framework`,`CoreMotion.framework`。
+
+### 备注：
+[详细接口介绍可查看“Video SDK for Cocos2d Lua API手册.md”文档](https://github.com/youmesdk/YoumeVideoSDK_Lua/blob/master/Video%20SDK%20for%20Cocos2d_lua-API%E6%89%8B%E5%86%8C.md)
