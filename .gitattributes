@@ -1,1 +1,2 @@
 libYouMeComnon.a filter=lfs diff=lfs merge=lfs -text
+libYouMeCommon.a filter=lfs diff=lfs merge=lfs -text
